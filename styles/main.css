@@ -1,0 +1,158 @@
+/*body {
+    background-image: url("http://eskipaper.com/images/cat-nose-whiskers-1.jpg");
+    background-size: background-size: 300px 100px;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}*/
+/*header*/
+body h2 a {
+  text-decoration: none;
+}
+/*
+#hero.jpg {
+  width: 65%;
+  height: auto;
+}*/
+
+header {
+  /*background-image: "hero.jpg";*/
+  width: 100%;
+  background-color: #e0c7cc;
+  font-family: sans-serif;
+  justify-content:center;
+  padding: 20px 30px 30px 20px;
+
+}
+
+header a {
+  font-size: 36;
+}
+
+li {
+    display: inline;
+    /*color: */
+    list-style-type: none;
+    float: right;
+    clear: both;
+
+}
+
+li a {
+  text-decoration: none;
+  float: right;
+  clear: both;
+}
+
+.bye-bullets a {
+  display: inline;
+}
+
+.meow h1 {
+  display: block;
+  background-image: url("../assets/hero.jpg");
+  height: 2em;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 70px 30px 50px 80px;
+  color: #e0c7cc;
+  font-family: sans-serif;
+  font-size: 48;
+  text-align:center;
+}
+
+/*section h1 {
+  font-size: 60
+}*/
+section.popular h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #e0c7cc;
+}
+article {
+  border-spacing: inherit;
+  width: 25%;
+  margin: 0px 10px 30px 30px;
+  border: black 2px solid;
+  border-radius: 10px;
+  display: inline;
+  float: left;
+
+}
+
+h3, p {
+  display: inline;
+  float: left;
+  clear: right;
+  font-weight: bold;
+  text-align: center;
+}
+
+p a {
+  display: inline;
+  font-family: sans-serif;
+  border: black 1px solid;
+  width: 20%;
+  border-radius: 10px;
+  font-size: 90%;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 50px;
+  padding: 2px 2px 2px 2px;
+}
+
+.join-club img {
+  float: right;
+  height: 200px;
+}
+
+.join-club h2 {
+  font-family: sans-serif;
+  clear: left;
+}
+.club-join section {
+  /*float: left;*/
+  /*border-spacing: inherit;*/
+  width: 25%;
+  margin: 0px 10px 30px 30px;
+}
+
+section.join-club section p {
+  clear: right;
+  display: inline;
+  float: left;
+  width: 25%;
+  margin: 0px 10px 30px 30px;
+  font-family: sans-serif;
+}
+
+.everybody h2  {
+  padding: 50px 50px 50px 50px;
+  height: 300;
+  font-family: sans-serif;
+  clear: both;
+  text-align: center;
+}
+
+p#disclaimer {
+  display: inline;
+  float: left;
+  margin-top: auto;
+  width: 50;
+
+}
+
+
+
+#bottom {
+
+  font-family: sans-serif;
+
+}
+
+#more-bottom {
+
+  font-family: sans-serif;
+
+}
